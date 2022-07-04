@@ -1,4 +1,5 @@
 ls -l
 man 
 cd 
+history -c
 mkdir
