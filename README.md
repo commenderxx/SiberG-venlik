@@ -1,2 +1,2 @@
 # Siber Güvenlik
-Linux komutları gelecek
+linux komutları
